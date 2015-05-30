@@ -2,6 +2,9 @@ __author__ = 'anand'
 
 import random
 
+
+### JULY changes mde
+
 def callme1(msg):
     str1 = input(msg);
     return str1
