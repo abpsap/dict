@@ -36,7 +36,7 @@ def main ():
         ggh.append(i)
     print ("The list is ",  ggh)
     listExample.listex2(ggh)
-    print (ggh)
+    print ("original ggh list is ", ggh)
 
 main()
 
