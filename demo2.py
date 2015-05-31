@@ -16,7 +16,7 @@ def demoex2():
             break
         counter += 1
         age  += boy
-        if counter > 5:
+        if counter > 2:
             break
 
     print ("The final value of the counter is " + str(counter) + " Age is " + str(age));
